@@ -5,4 +5,4 @@ Anyway, ask me if some clarification is needed:
 
 📧 arturshatailo@gmail.com
 
-I'm interested in ☕️ Java software engineering and now, I'm looking for Junior position in professional team 😏 
+I'm interested in ☕️ Java software engineering and now, I'm looking for Junior position in ambitious team of professionals 😏 
