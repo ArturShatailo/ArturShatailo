@@ -1,7 +1,7 @@
-Hi, 
-I'm Arthur 👋 and I'm glad to welcome you on my GitHub account 🙂
-Just have fun and discover the work I've done, I hope that knowledge I'm sharing here will be helpful. 
-Anyway, ask me if some clarification is needed: 
+<p>Hi,</p>
+<p>I'm Arthur 👋 and I'm glad to welcome you on my GitHub account 🙂</p>
+<p>Just have fun and discover the work I've done, I hope that knowledge I'm sharing here will be helpful.</p>
+<p>Anyway, ask me if some clarification is needed: </p>
 
 📧 arturshatailo@gmail.com
 
