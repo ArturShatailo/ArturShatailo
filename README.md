@@ -4,6 +4,6 @@
 <p>Anyway, ask me if some clarification is needed: </p>
 
 <a href="https://github.com/ArturShatailo/ArturShatailo/blob/main/CV_Software_engineer_java_Artur_Shatailo_ph.pdf">CV PDF file</a>
-📧 arturshatailo@gmail.com
-
+<p>📧 arturshatailo@gmail.com</p>
+<p></p>
 I'm interested in ☕️ Java software engineering and now, I'm looking for Junior position in ambitious team of professionals 😏 
