@@ -7,4 +7,3 @@
 <p></p>
 <a href="mailto:arturshatailo@gmail.com">📧 arturshatailo@gmail.com</a>
 <p></p>
-I'm interested in ☕️ Java software engineering and now, I'm looking for Junior position in ambitious team of professionals 😏 
